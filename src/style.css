@@ -45,6 +45,7 @@ button {
   margin: 0 5px;
   border: 0;
   cursor: pointer;
+  outline: 0;
 }
 input {
   padding: 8px 15px;
